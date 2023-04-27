@@ -6,10 +6,14 @@ function Main(){
     <main>
      <h1 className='main--title'>Fun Facts About React</h1>
      <ul className='main--list'>
-        <li>Was first released in 2013</li>                      
-        <li>Was originally created by Jordan Walke</li>                      
-        <li>Has well over 100K stars on GitHub</li>                      
-        <li>Is maintained by Facebook</li>                      
+        <li>Was first released in 2013</li> 
+        <br/>                     
+        <li>Was originally created by Jordan Walke</li> 
+        <br/>                     
+        <li>Has well over 100K stars on GitHub</li>  
+        <br/>                    
+        <li>Is maintained by Facebook</li>
+        <br/>                      
         <li>Powers thousands of enterprise apps, including mobile apps</li>                      
      </ul>
     </main>                          
